@@ -1,4 +1,3 @@
-import msal
 from flask import (Flask, abort, redirect, render_template,
                    request, url_for,abort)
 from flask.blueprints import Blueprint
